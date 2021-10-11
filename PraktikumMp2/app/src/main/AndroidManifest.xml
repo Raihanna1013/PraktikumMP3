@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PraktikumMp2">
-        <activity android:name=".Passing.Out"></activity>
-        <activity android:name=".Passing.Input" />
-        <activity android:name=".Implicit.Implicit_Intent" />
+        <activity android:name=".Praktikum1.Passing.Out"></activity>
+        <activity android:name=".Praktikum1.Passing.Input" />
+        <activity android:name=".Praktikum1.Implicit.Implicit_Intent" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Explincit.FistActivity" />
+        <activity android:name=".Praktikum1.Explincit.FistActivity" />
     </application>
 
 </manifest>

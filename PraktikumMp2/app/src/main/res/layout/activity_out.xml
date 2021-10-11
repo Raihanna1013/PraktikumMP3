@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Passing.Out">
+    tools:context=".Praktikum1.Passing.Out">
     <TextView
         android:id="@+id/judul"
         android:layout_width="wrap_content"
